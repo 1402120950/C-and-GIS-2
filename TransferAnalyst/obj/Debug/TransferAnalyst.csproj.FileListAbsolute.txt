@@ -1,0 +1,4 @@
+D:\C#与GIS\TransferAnalyst\obj\Debug\TransferAnalyst.csprojResolveAssemblyReference.cache
+D:\C#与GIS\TransferAnalyst\obj\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.FormMain.resources
+D:\C#与GIS\TransferAnalyst\obj\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.Properties.Resources.resources
+D:\C#与GIS\TransferAnalyst\obj\Debug\TransferAnalyst.csproj.GenerateResource.Cache

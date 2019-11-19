@@ -1,0 +1,11 @@
+D:\Demo\zl\zl\bin\x86\Debug\zl.exe.config
+D:\Demo\zl\zl\bin\x86\Debug\zl.exe
+D:\Demo\zl\zl\bin\x86\Debug\zl.pdb
+D:\Demo\zl\zl\bin\x86\Debug\SuperMap.Data.dll
+D:\Demo\zl\zl\bin\x86\Debug\SuperMap.Mapping.dll
+D:\Demo\zl\zl\bin\x86\Debug\zh-CN\SuperMap.Data.resources.dll
+D:\Demo\zl\zl\obj\x86\Debug\zl.Form1.resources
+D:\Demo\zl\zl\obj\x86\Debug\zl.Properties.Resources.resources
+D:\Demo\zl\zl\obj\x86\Debug\zl.csproj.GenerateResource.Cache
+D:\Demo\zl\zl\obj\x86\Debug\zl.exe
+D:\Demo\zl\zl\obj\x86\Debug\zl.pdb
