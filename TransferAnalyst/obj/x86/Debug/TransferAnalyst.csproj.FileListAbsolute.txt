@@ -1,0 +1,30 @@
+D:\SuperMap iObjects\SampleCode\BinD\TransferAnalyst.exe
+D:\SuperMap iObjects\SampleCode\BinD\TransferAnalyst.pdb
+D:\SuperMap iObjects\SampleCode\TrafficAnalyst\TransferAnalyst\obj\x86\Debug\TransferAnalyst.csprojResolveAssemblyReference.cache
+D:\SuperMap iObjects\SampleCode\TrafficAnalyst\TransferAnalyst\obj\x86\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.FormMain.resources
+D:\SuperMap iObjects\SampleCode\TrafficAnalyst\TransferAnalyst\obj\x86\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.Properties.Resources.resources
+D:\SuperMap iObjects\SampleCode\TrafficAnalyst\TransferAnalyst\obj\x86\Debug\TransferAnalyst.csproj.GenerateResource.Cache
+D:\SuperMap iObjects\SampleCode\TrafficAnalyst\TransferAnalyst\obj\x86\Debug\TransferAnalyst.exe
+D:\SuperMap iObjects\SampleCode\TrafficAnalyst\TransferAnalyst\obj\x86\Debug\TransferAnalyst.pdb
+D:\BinD\TransferAnalyst.exe
+D:\BinD\TransferAnalyst.pdb
+D:\C#与GIS\TransferAnalyst\obj\x86\Debug\TransferAnalyst.csprojResolveAssemblyReference.cache
+D:\C#与GIS\TransferAnalyst\obj\x86\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.FormMain.resources
+D:\C#与GIS\TransferAnalyst\obj\x86\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.Properties.Resources.resources
+D:\C#与GIS\TransferAnalyst\obj\x86\Debug\TransferAnalyst.csproj.GenerateResource.Cache
+D:\C#与GIS\TransferAnalyst\obj\x86\Debug\TransferAnalyst.exe
+D:\C#与GIS\TransferAnalyst\obj\x86\Debug\TransferAnalyst.pdb
+D:\软件工程作业\BinD\TransferAnalyst.exe
+D:\软件工程作业\BinD\TransferAnalyst.pdb
+D:\软件工程作业\C#与GIS1\TransferAnalyst\obj\x86\Debug\TransferAnalyst.csprojResolveAssemblyReference.cache
+D:\软件工程作业\C#与GIS1\TransferAnalyst\obj\x86\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.FormMain.resources
+D:\软件工程作业\C#与GIS1\TransferAnalyst\obj\x86\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.Properties.Resources.resources
+D:\软件工程作业\C#与GIS1\TransferAnalyst\obj\x86\Debug\TransferAnalyst.csproj.GenerateResource.Cache
+D:\软件工程作业\C#与GIS1\TransferAnalyst\obj\x86\Debug\TransferAnalyst.exe
+D:\软件工程作业\C#与GIS1\TransferAnalyst\obj\x86\Debug\TransferAnalyst.pdb
+D:\C#与GIS代码\TransferAnalyst\obj\x86\Debug\TransferAnalyst.csprojResolveAssemblyReference.cache
+D:\C#与GIS代码\TransferAnalyst\obj\x86\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.FormMain.resources
+D:\C#与GIS代码\TransferAnalyst\obj\x86\Debug\SuperMap.SampleCode.Analyst.TrafficAnalyst.Properties.Resources.resources
+D:\C#与GIS代码\TransferAnalyst\obj\x86\Debug\TransferAnalyst.csproj.GenerateResource.Cache
+D:\C#与GIS代码\TransferAnalyst\obj\x86\Debug\TransferAnalyst.exe
+D:\C#与GIS代码\TransferAnalyst\obj\x86\Debug\TransferAnalyst.pdb
